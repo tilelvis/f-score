@@ -38,3 +38,4 @@ dist-ssr
 
 # Bun
 .bun
+\n# TypeScript build info\n*.tsbuildinfo
